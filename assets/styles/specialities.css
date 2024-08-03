@@ -1,0 +1,204 @@
+        .carousel-caption {
+            position: absolute;
+            right: 0%;
+            width: 30%;
+            bottom: 35%;
+            padding: 0;
+            left: 8%;
+            text-align: left;
+            margin: 0;
+        }
+
+        .carousel-content nav {
+            position: absolute;
+            left: 8%;
+            right: 0;
+            top: 10%;
+        }
+        .team-carousel .owl-item.active {
+            height: 450px;
+            /*border: 1px solid var(--gray);*/
+          }
+          .team-carousel-box {
+  border: 1px solid var(--gray);
+}
+        .carousel-caption.d-none.d-md-block p {
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 300;
+        }
+       .team-carousel-content {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 250px;
+}
+        .carousel-caption.d-none.d-md-block h2 {
+            text-align: left;
+        }
+
+        .carousel-caption.d-none.d-md-block h2 {
+            text-align: left;
+            margin-bottom: 10px;
+        }
+
+        .banner-button {
+            position: absolute;
+            bottom: 80px;
+            right: 0;
+            left: 7%;
+        }
+
+        .banner-button a {
+            background: #fff;
+            padding: 18px 25px;
+            border-radius: 32px;
+            color: #000;
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 500;
+        }
+
+        .banner-button a img {
+            width: 44px;
+            height: 44px;
+            border-radius: 30px;
+            margin-right: 10px;
+        }
+
+        .banner-button {
+            margin-top: 48px;
+        }
+
+        section.our-services-sec.p_100 .row {
+            row-gap: 40px;
+        }
+
+        .service-box.col-4 h5 {
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 28px;
+            margin-top: 12px;
+        }
+
+        section.techno-sec.p_100 {
+            background-color: #F9F9F9;
+            padding-bottom: 150px;
+          }
+
+        section.our-services-sec .main_heading h2{
+            text-align: left;
+            margin-bottom: 48px;
+        }
+        section.techno-sec .main_heading h2{
+            text-align: left;
+            margin-bottom: 48px;
+        }
+        section.patient-sec .main_heading h2{
+            text-align: left;
+            margin-bottom: 48px;
+        }
+section.Main-pro .main_heading h2{
+    text-align: left;
+            margin-bottom: 48px;
+}
+        .tech-content.col-4 p {
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 300;
+        }
+
+        .tech-content.col-4 .tech-button img {
+            width: 10%;
+            height: auto;
+            margin-right: 8px;
+        }
+
+        .techno-sec .row {
+            position: relative;
+        }
+          .techno-sec .row > div {
+            padding: unset;
+          }
+        .tech-content {
+            background-color: #fff;
+            padding: 40px 45px !important;
+            margin: 0;
+            position: absolute;
+            bottom: -10%;
+            right: 0;
+                width: 517px;
+          }
+
+        
+
+        a.know_btn span {
+            background-color: var(--orange);
+            border-radius: 50%;
+            display: inline-flex;
+            width: 30px;
+            height: 30px;
+            padding: 3px;
+            margin-right: 10px;
+        }
+
+        .team-carousel-content h5 {
+            font-size: 24px;
+            line-height: 34px;
+            color: #000;
+            font-weight: 500;
+            /*text-align: center;*/
+        }
+        .patient-sec .owl-item {
+            height: 350px;
+          }
+        .team-carousel-content p {
+            font-size: 18px;
+            line-height: 26px;
+            color: #000;
+            font-weight: 300;
+            margin-bottom: 32px;
+            /*text-align: center;*/
+        }
+
+        .team-carousel-content svg {
+    display: flex;
+    width: 100%;
+}
+        .patient-carousel-content p {
+            font-size: 18px;
+            line-height: 28px;
+            font-weight: 400;
+            color: #000;
+            padding: 20px;
+        }
+
+        section.patient-sec.p_100 {
+            background-color: #f9f9f9;
+        }
+
+        .patient-carousel-box {
+            background: #fff;
+            margin-bottom: 0px;
+            height: 100%;
+        }
+        
+        
+        
+        
+        .team-carousel-content .bread_btn.profile_btn {
+  border: 1px solid var(--gray);
+  background-color: var(--blue);
+  color: #fff;
+}
+.team-carousel-content a.bread_btn span {
+  background-color:#fff;
+        
+        
+        .team-carousel-content a.bread_btn span {
+  background-color: #fff !important;
+}
+a.bread_btn.profile_btn svg path {
+    fill: var(--blue) !important;
+}

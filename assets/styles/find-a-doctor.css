@@ -1,0 +1,110 @@
+.breadcrumb_button_box a.bread_btn span {
+    padding: 8px;
+}
+.breadcrumb_button_box a.bread_btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+
+
+
+.filter_section {
+  position: relative;
+}
+.filter_box {
+  padding: 30px;
+  background-color: #f9f9f9;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+.filtered_docs {
+  padding-left: 40px;
+}
+.filter_drop select {
+  border: unset;
+  border-radius: unset;
+}
+.subscription .input-group {
+  border: unset;
+  background-color: #fff;
+}
+.subscription input {
+  border: unset;
+}
+.input-group input, .input-group span {
+  border-radius: unset !important;
+  padding: 10px;
+}
+.doctor_btn {
+  display: flex;
+  column-gap: 12px;
+}
+.doctor_box .experience {sele
+  margin: 20px 0px 30px 0px;
+  color: var(--blue);
+}
+.doctors_container > .row > div {
+  border: 1px solid var(--gray);
+  padding: 30px;
+}
+.doctors_container > .row {
+  grid-row-gap: 30px;
+}
+.doctor_img {
+  height: 100%;
+  border: 1px solid var(--gray);
+  background-color: #abc9eb;
+}
+.doctor_img img {
+  height: 100%;
+  object-fit: cover;
+}
+.doctor_box .title h3 {
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.doctor_box .post p{
+  font-weight: 300;
+}
+.doctor_box .experience {
+  margin: 20px 0px 30px 0px;
+  color: var(--blue);
+}
+.dictor_info .doctor_btn a.bread_btn svg {
+    width: 16px;
+    height: 16px;
+}
+.doctor_btn a.bread_btn.profile_btn span {
+    background: var(--blue);
+}
+.doctor_btn a.bread_btn {
+  border: 1px solid #e4e2e2;
+}
+.dictor_info .doctor_btn a.bread_btn {
+    padding: 7px 20px 7px 7px;
+    font-size: 14px;
+}
+.doctor_btn a.bread_btn:first-child {
+  background-color: var(--blue);
+  color: #fff;
+  border: unset;
+}
+.doctor_btn a.bread_btn:first-child span svg path{
+  fill: var(--blue);
+}
+.doctor_btn a.bread_btn span {
+  background-color: #fff;
+}
+
+.load_more_btn a {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.load_more_btn {
+  padding: 15px 40px !important;
+  width: max-content;
+}

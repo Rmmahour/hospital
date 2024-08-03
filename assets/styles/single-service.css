@@ -1,0 +1,30 @@
+.single_servive_container h3 {
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: 600;
+}
+.single_servive_container:first-child {
+  padding-top: unset;
+  border-bottom: 1px solid var(--gray);
+}
+.single_servive_container {
+  padding: 20px 0px;
+}
+
+.single_servive_content {
+  padding: 20px 0px;
+}
+.single_servive_content h5{
+    font-size: 18px;
+      line-height: 24px;
+      font-weight: 600;
+}
+
+.single_servive_page p, .single_servive_page li {
+  font-size: 16px;
+  line-height: 22px;
+}
+.single_servive_page ol, .single_servive_page ul {
+  list-style-type: initial;
+  padding-left: 2rem;
+}

@@ -1,0 +1,215 @@
+.nav_inner {
+    position: sticky;
+    top: 10px;
+}
+.single_doctor .nav_inner ul li a.active {
+    color: #fff;
+    background: #065BAA;
+    padding: 30px;
+    text-transform: capitalize;
+    font-size: 18px;
+    border-radius: 0px;
+    border: none;
+}
+.single_doctor.breadcrumb_banner .container {
+  position: relative;
+  height: 100%;
+  padding-top: 64px;
+  z-index: 9;
+}
+.single_doctor .doc-img_box {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 33%;
+}
+.single_doctor.breadcrumb_banner {
+  padding: unset;
+}
+.single_doctor .breadcrumb-item+.breadcrumb-item{
+    color:#fff;
+}
+.single_doctor li.breadcrumb-item a {
+    color: #fff;
+}
+.single_doctor .breadcrumb-content h2 {
+  font-size: 42px;
+  line-height: 52px;
+  color: #fff;
+  display: flex;
+  height: 100%;
+  /*justify-content: space-between;*/
+}
+.single_doctor .breadcrumb-content h2 span {
+  font-size: 16px;
+  line-height: 26px;
+  align-items: center;
+  display: flex !important;
+  margin-left: 30px;
+}
+.single_doctor .breadcrumb-content h2 span svg {
+  margin-right: 5px;
+}
+.single_doctor .breadcrumb-content p {
+    color: #fff;
+}
+.breadcrumb_button_box a.bread_btn {
+    padding: 10px 23px 10px 10px;
+}
+.single_doctor .doc-img_box img {
+  object-fit: contain;
+  height: 100%;
+}
+.nav_inner ul li a {
+    padding: 30px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 0px;
+    color: #000;
+    display: block;
+}
+.doc_single_data {
+    margin-left: 12%;
+    width: 70%;
+}
+.full-descp p {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+}
+.full-descp {
+            margin-bottom: 48px;
+                border-bottom: 1px solid #B6B6B6;
+        }
+        .full-descp:last-child{
+            border: unset;
+        }
+.full-descp h3 {
+        font-size: 24px;
+    line-height: 34px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.full-descp ul li {
+    font-size: 18px;
+    line-height: 36px;
+    font-weight: 300;
+    list-style: disc;
+    margin-left: 20px;
+}
+.page-section .full-descp ul {
+    margin-bottom: 48px;
+}
+.divTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0px;
+}
+.full-descp a.know_btn {
+    margin: 40px 0px;
+}
+.divTable th, .divTable td {
+    border: 1px solid #ddd;
+    padding: 20px;
+        text-align: center;
+}
+.full-descp h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--orange);
+}
+.divTable th {
+    text-align: center;
+}
+
+.full-descp-1 p {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 300;
+    padding-bottom: 48px;
+}
+.single_doctor .divTable th.white {
+    background-color: #fff;
+    color: #000;
+}
+.full-descp h2 {
+    color: var(--blue);
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    margin-bottom: 24px;
+}
+.single_doctor .breadcrumb-item.active {
+    color: #fff;
+}
+.single_doctor .breadcrumb-item+.breadcrumb-item::before {
+    color: #fff;
+}
+.doctor-box {
+    margin-bottom: 30px;
+}
+.doctor-box p {
+  background: #f0f0f0;
+  padding: 12px 20px;
+  font-size: 15px;
+  line-height: 21px;
+  height: 100px;
+}
+.nav_inner ul li a.active {
+    background-color: var(--blue);
+    padding: 25px;
+    color: #fff;
+}
+.form-row {
+    padding: 0px 0px 20px 0px;
+}
+.form-field input {
+    margin-right: 20px;
+    padding: 12px 25px;
+        border: 1px solid #EAEAEA;
+        font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    color: #373737;
+}
+.form-field select#doctor {
+       padding: 15px 62px 14px 24px;
+
+}
+.form-field select {
+          padding: 14px 32px;
+      margin-right: 20px;
+          border: 1px solid #EAEAEA;
+          font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    color: #373737;
+}
+.form-field input#date {
+    padding: 12px 43px;
+}
+form.appointment-form button {
+    padding: 14px 46px;
+    border: 1px solid #C7C7C7;
+    background: transparent;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+    margin: 30px 0px;
+}
+
+.doctors-tab .contact_forms {
+  width: unset;
+}
+
+
+
+
+
+.full-descp a.know_btn {
+  margin: 40px 0px;
+  transform: translateX(40px);
+}
+
+
